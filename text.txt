@@ -1,4 +1,3 @@
-Resetng git	
 final change in Bash
 Updating in Bash CLI
 Updating in git hub
