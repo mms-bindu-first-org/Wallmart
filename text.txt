@@ -1,4 +1,8 @@
-Updating in Bash 
+<<<<<<< HEAD
+Updating in Bash CLI
+
+=======
 Updating in git hub
+>>>>>>> b2d4815921a912759fa9bf9c1b8659f5a1174d13
 second file to git
 
