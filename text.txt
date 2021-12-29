@@ -1,2 +1,4 @@
+Updating in Bash CLI
+
 second file to git
 
